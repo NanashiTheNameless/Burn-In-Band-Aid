@@ -18,6 +18,12 @@ just a burn in "fixer"
 
 <center>
   
-Go to "[https://bandaid.searchforjohn.com/burn-in-fix.html](https://bandaid.searchforjohn.com/burn-in-fix.html)"
+Go to
+
+</center>
+
+<center>
+  
+https://bandaid.searchforjohn.com/burn-in-fix.html
 
 </center>
